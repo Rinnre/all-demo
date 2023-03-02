@@ -17,6 +17,7 @@
     <modules>
         <module>se</module>
         <module>springcloud</module>
+        <module>springboot</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
